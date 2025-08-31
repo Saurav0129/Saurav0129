@@ -15,7 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a passionate B.Tech student specializing in Artificial Intelligence and Data Science. I'm eager to dive into the ever-evolving tech landscape and contribute to innovative solutions.<br><br>My areas of interest include:<br>- Artificial Intelligence 🤖<br>- Machine Learning 🧠<br>- Deep Learning 🧠<br>- Data Science 📊<br>- Computer Vision 👀<br>- Natural Language Processing 🗣️<br><br>I'm committed to continuous learning and staying up-to-date with the latest advancements in these fields. In my free time, you can find me exploring new technologies, working on personal projects, or contributing to open-source initiatives. 🖥️<br><br>I'm always eager to learn from others and collaborate on interesting projects. Feel free to reach out if you'd like to connect! 👋
+I’m a B.Tech graduate in Artificial Intelligence & Data Science from USAR, Delhi (GGSIPU). I’m passionate about building innovative AI/ML solutions and contributing to the ever-evolving tech landscape.
+
+My areas of interest include:
+
+Artificial Intelligence 🤖
+
+Machine Learning 🧠
+
+Deep Learning 🧠
+
+Data Science 📊
+
+Computer Vision 👀
+
+Natural Language Processing 🗣️
+
+Cloud & DevOps ☁️
+
+I’m committed to continuous learning and staying at the forefront of advancements in AI/ML. In my free time, I enjoy experimenting with projects, exploring new technologies, and contributing to open-source initiatives.
+
+Always open to collaboration, knowledge sharing, and exciting opportunities—let’s connect! 👋
 
 
 ## 🌐 Socials:
